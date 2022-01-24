@@ -9,15 +9,9 @@
 
 - 🌱 I’m currently learning **Hadoop**
 
-- 👨‍💻 All of my projects are available at [https://alimsahy.com/portfolio](https://alimsahy.com/portfolio)
-
-- 📝 I regularly write articles on [https://alimsahy.com/](https://alimsahy.com/)
-
 - 💬 Ask me about **NodeJS, Express, C++, Electron**
 
 - 📫 How to reach me **alimsahy@gmail.com**
-
-- 📄 Know about my experiences [https://cv.alimsahy.com/](https://cv.alimsahy.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
