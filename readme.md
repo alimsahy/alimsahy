@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/alimsahy" target="blank"><img src="https://img.shields.io/twitter/follow/alimsahy?logo=twitter&style=for-the-badge" alt="alimsahy" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Exchange Platfrom**
-
 - 🌱 I’m currently learning **Hadoop**
 
-- 💬 Ask me about **NodeJS, Express, C++, Electron**
+- 💬 Ask me about **NodeJS, Express, C++, C, C#, Electron**
 
 - 📫 How to reach me **alimsahy@gmail.com**
 
